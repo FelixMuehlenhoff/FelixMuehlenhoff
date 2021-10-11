@@ -1,8 +1,5 @@
-<div align="center">
-<img width="" height = "" src="" alt="cover" />
-</div>
 
-<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello! </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FelixMuehlenhoff.FelixMuehlenhoff)
